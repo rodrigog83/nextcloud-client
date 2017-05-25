@@ -3,7 +3,8 @@
 # Slackware build script for nextcloud-client
 
 # Copyright 2013-2016 Christopher Walker Copperas Cove, TX
-# Copyright 2016 Chris Abela <kristofru@gmail.com>, Malta
+# Copyright 2016-2017 Chris Abela <kristofru@gmail.com>, Malta
+# Copyright 2017      Rodrigo Gimenez <estrod@zoho.com>, Argentina
 # All rights reserved.
 #
 # Redistribution and use of this script, with or without modification, is
