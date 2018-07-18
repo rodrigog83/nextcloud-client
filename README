@@ -10,8 +10,6 @@ in the computer system tray or on your tablet or handheld device.
 
 Nextcloud is an actively maintained fork of ownCloud.
 
-This slackbuild requires qtkeychain.
-
-This slackbuild will not build against qt5.
+This slackbuild requires qtkeychain, qt5, libinput and libxkbcommon.
 
 Homepage: https://nextcloud.com/
